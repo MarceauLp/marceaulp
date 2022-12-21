@@ -7,7 +7,7 @@
 
 <p align="center"><b>Age:</b>  19</p>
 <p align="center"><b>Name:</b> Marceau</p>
-<p align="center"><b>Bio:</b> lorem   </p>
+<p align="center"><b>Bio:</b> 🖥️ Student in BTS SIO <br> Passionate about entrepreneurship 💶 and personal development 🧠 </p>
 <p align="center"><b>Location:</b> Nantes FRANCE</p>
 <p align="center"><b>Studies:</b> La Joliverie - Saint Sebastien-sur-Loire</p>
 
@@ -33,7 +33,7 @@
 <br clear="both">
 
 <details>
-<summary><h3> ⚙️ Languages and Tools ⚙️</h3></summary>
+<summary><h3>Languages and Tools</h3></summary>
 <div align="center">
   <a href="https://www.linkedin.com/in/marceau-le-presse/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
