@@ -1,5 +1,6 @@
+
 <p align="center">
-  <a href="github.com/MarceauLp"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=442CF7&center=faux&vCenter=faux&repeat=vrai&width=607&height=145&lines=2%2B+years+of+coding+experience;Always+learning+new+things;Full+stack+web+and+app+developer;Passionate+about+entrepreneurship;Follower+of+new+technologies%3A+DEFI;Passionate+about+investing+and+personal+development" alt="Typing SVG" /></a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=1C51F7&width=500&lines=Passionate+about+investing+and+personal+developmentperience;Always+learning+new+things;Full+stack+web+and+app+developer;Passionate+about+entrepreneurship;Follower+of+new+technologies%3A+DEFI;2%2B+years+of+coding+experience)](https://git.io/typing-svg)
 </p>
 
 
