@@ -1,23 +1,21 @@
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
+  <img height="100" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
 </div>
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l24hry0j9i1rve5m8lfcpavhq&unique={true|1|on|yes})
 
 
 
 
 
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding" width="400" src="https://socialdesk.fr/wp-content/uploads/2021/04/benjamin-durand.jpg">
 
 
 
 
 <h1 align="center">Salut 👋, je suis Marceau</h1>
-<h3 align="center">Un développeur pationné</h3>
+<h3 align="center"><b>Age:</b> 19</h3>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -25,7 +23,7 @@
 </p>
 
 <div align="center">
-    <p>Nombres de vue sur mon profil:</p>
+    <p>Compteur de vue:</p>
   <img src="https://profile-counter.glitch.me/marcue/count.svg?"  />
 </div>
 
@@ -34,6 +32,8 @@
 
 <br clear="both">
 
+
+<h2><b> Languages and Tools </b></h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/marceau-le-presse/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -45,7 +45,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-<br>
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
@@ -79,6 +78,9 @@
     <p><b>Remarque :</b> Les principales langues ne sont qu'une mesure des langues dans lesquelles se compose mon code public et ne reflètent pas l'expérience ou le niveau de compétence</p>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MarceauLp's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=MarceauLp&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l24hry0j9i1rve5m8lfcpavhq&unique={true|1|on|yes})
 
 
 <h3 align="left">Support:</h3>
